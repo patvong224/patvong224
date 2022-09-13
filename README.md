@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patvong224
 - 👀 I’m interested in python, machine learning, artificial intelligence, data science, and data analytics.
-- 🌱 I’m currently learning data structures and R.
+- 🌱 I’m currently learning Machine Learning and  the basics Data Science.
 - 📫 How to reach me ... through my email!
 
 <!---
