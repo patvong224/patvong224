@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m Patrick
+- 📚 Data Science Student at the University of Illinois at Chicago
 - 👀 I’m interested in python, machine learning, artificial intelligence, data science, and data analytics.
 - 🌱 I’m currently learning Machine Learning and the basics of Data Science.
 - 📫 You can reach me through my email!
