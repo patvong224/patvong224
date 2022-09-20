@@ -8,7 +8,7 @@
 - C++, Java, JavaScript, R, and SAS
 - Numpy, Matplotlib, Pandas, and Amazon Sagemaker
 
-linkedin: https://www.linkedin.com/in/patvong224/
+linkedin: linkedin.com/in/patvong224/
 
 <!---
 patvong224/patvong224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
