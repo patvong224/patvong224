@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Patrick
 - 📚 Data Science Student at the University of Illinois at Chicago (Data Science with a concentration of Computer Science)
 - 👀 I’m interested in python, machine learning, artificial intelligence, data science, and data analytics.
-- 🌱 I’m currently learning artifical intelligence, big data, and optimization.
+- 🌱 I’m currently learning about artifical intelligence, big data, and optimization.
 - 📫 You can reach me through my email at patvong224@gmail.com!
 
 🧠 Currently possess knowlege in:
