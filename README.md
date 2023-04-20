@@ -5,7 +5,7 @@
 - 📫 You can reach me through my email at patvong224@gmail.com!
 
 🧠 Currently possess knowlege in:
-- C++, Java, JavaScript, R, and SAS
+- Python (Proficient), C++ (Proficient), Java, JavaScript, R, and SAS
 - Numpy, Matplotlib, Pandas, and Amazon Sagemaker
 
 linkedin: linkedin.com/in/patvong224/
