@@ -7,6 +7,7 @@
 🧠 Currently possess knowlege in:
 - Python (Proficient), C++ (Proficient), Java, JavaScript, R, and SAS
 - Numpy, Matplotlib, Pandas, and Amazon Sagemaker
+- Testing: JUNIT, Google Test
 
 linkedin: linkedin.com/in/patvong224/
 
