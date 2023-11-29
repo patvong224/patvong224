@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Patrick
-- 📚 Data Science Student at the University of Illinois at Chicago (Data Science with a concentration of Computer Science), Graduating December 2023
+- 📚 Data Science Student at the University of Illinois at Chicago, Graduating December 2023
 - 👨‍💻 Former data science intern.
 - 👀 I’m interested in python, machine learning, artificial intelligence, data science, and software engineering.
 - 📫 You can reach me through my email at patvong224@gmail.com!
