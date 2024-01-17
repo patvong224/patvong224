@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Patrick
-- 📚 Data Science Student at the University of Illinois at Chicago, Graduating December 2023
-- 👨‍💻 Former data science intern.
+- 📚 Data Science Student at the University of Illinois at Chicago, Graduating May 2024!
+- 👨‍💻 Former data science / python developer intern.
 - 👀 I’m interested in python, machine learning, artificial intelligence, data science, and software engineering.
 - 📫 You can reach me through my email at patvong224@gmail.com!
 
@@ -9,7 +9,7 @@
 - Numpy, Matplotlib, Pandas, and AWS
 - Testing: JUNIT, Google Test
 
-linkedin.com/in/patvong224/
+[Linkedin](linkedin.com/in/patvong224/)
 
 <!---
 patvong224/patvong224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
